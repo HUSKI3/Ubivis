@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ubivis"
+version = "0.1.0"
+description = ""
+authors = ["HUSKI3 <doslunar8@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+rich = "^13.3.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
