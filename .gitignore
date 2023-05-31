@@ -2,3 +2,4 @@ test/
 built/
 poetry.lock
 **/__pycache__/
+main.py
