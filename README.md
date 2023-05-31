@@ -1,5 +1,7 @@
 <br/>
 <p align="center">
+
+  ![Screen Shot](assets/image.png)
   <h3 align="center">Ubivis</h3>
 
   <p align="center">
@@ -21,7 +23,6 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
 
 This project was created to simplify the use of Rust and VLang libraries internally at TecTone23, but can also be used for your own projects.
 
@@ -112,6 +113,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Acknowledgements
 
-* []()
-* []()
 * [ImgShields](https://shields.io/)
