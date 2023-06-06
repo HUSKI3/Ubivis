@@ -81,7 +81,7 @@ Declaring the function
 @CFunc(
     (Types.CharPtr,),
     Types.CharPtr,
-    test.lib.add
+    vlib.lib.add
 )
 def add(msg: str):
     return vlib.add(msg.encode()).decode()
