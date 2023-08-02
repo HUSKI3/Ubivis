@@ -24,7 +24,7 @@
 ## About The Project
 
 
-This project was created to simplify the use of Rust and VLang libraries internally at TecTone23, but can also be used for your own projects.
+This project was created to simplify the use of Rust and VLang libraries.
 
 It's currently able to:
 - Vlang
